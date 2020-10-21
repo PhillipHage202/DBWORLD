@@ -1,0 +1,10 @@
+1= SELECT COUNT(District) AS USA FROM city;
+2= SELECT COUNT(Population and LifeExpectancy) AS Argentina FROM country;
+3= SELECT NAME, LifeExpectancy FROM country ORDER BY LifeExpectancy, NOT NULL DESC LIMIT 300;
+4= SELECT city.name FROM country INNER JOIN city ON country.capital;
+5=
+6=
+7=
+8=
+9=
+10=
